@@ -1,0 +1,6 @@
+forestfire
+indoorfire
+electricalfire
+buildingfire
+vehiclefire
+grassfire
