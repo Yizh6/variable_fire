@@ -17,4 +17,6 @@ Vehiclefire：Fire caused by Vehicle
 Grassfire：fire on the grass
 
 
-hope this dataset can help you.
+Author: Xue Zhifu, Yi Zihao, Zheng Zhiyuan, 
+
+Hope this dataset can help you.
