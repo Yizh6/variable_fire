@@ -16,7 +16,7 @@ Vehiclefire：Fire caused by Vehicle
 
 Grassfire：fire on the grass
 
-
+paper link：https://ieeexplore.ieee.org/document/10451727
 Author: Xue Zhifu, Yi Zihao, Zheng Zhiyuan, 
 
 Hope this dataset can help you.
